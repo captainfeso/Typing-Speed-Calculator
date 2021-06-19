@@ -1,6 +1,1 @@
-
-## Set up a new CRA
-
-1. `npx create-react-app playground`
-2. `cd playground`
-3. `npm start`
+This is a web application that calculates the number of words that a user can type per minute. The application is made with react, html and css.
