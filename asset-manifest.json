@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Typing-Speed-Calculator/static/css/main.461c6669.chunk.css",
-    "main.js": "/Typing-Speed-Calculator/static/js/main.d8ca0e9c.chunk.js",
-    "main.js.map": "/Typing-Speed-Calculator/static/js/main.d8ca0e9c.chunk.js.map",
+    "main.css": "/Typing-Speed-Calculator/static/css/main.4d1f498f.chunk.css",
+    "main.js": "/Typing-Speed-Calculator/static/js/main.3deb61f5.chunk.js",
+    "main.js.map": "/Typing-Speed-Calculator/static/js/main.3deb61f5.chunk.js.map",
     "runtime-main.js": "/Typing-Speed-Calculator/static/js/runtime-main.c3833e14.js",
     "runtime-main.js.map": "/Typing-Speed-Calculator/static/js/runtime-main.c3833e14.js.map",
     "static/js/2.56b3ab34.chunk.js": "/Typing-Speed-Calculator/static/js/2.56b3ab34.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.9a4552a5.chunk.js": "/Typing-Speed-Calculator/static/js/3.9a4552a5.chunk.js",
     "static/js/3.9a4552a5.chunk.js.map": "/Typing-Speed-Calculator/static/js/3.9a4552a5.chunk.js.map",
     "index.html": "/Typing-Speed-Calculator/index.html",
-    "static/css/main.461c6669.chunk.css.map": "/Typing-Speed-Calculator/static/css/main.461c6669.chunk.css.map",
+    "static/css/main.4d1f498f.chunk.css.map": "/Typing-Speed-Calculator/static/css/main.4d1f498f.chunk.css.map",
     "static/js/2.56b3ab34.chunk.js.LICENSE.txt": "/Typing-Speed-Calculator/static/js/2.56b3ab34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c3833e14.js",
     "static/js/2.56b3ab34.chunk.js",
-    "static/css/main.461c6669.chunk.css",
-    "static/js/main.d8ca0e9c.chunk.js"
+    "static/css/main.4d1f498f.chunk.css",
+    "static/js/main.3deb61f5.chunk.js"
   ]
 }
