@@ -42,6 +42,7 @@ class App extends Component {
 	}
 
 	triggerTryAgain =()=>{
+		initialState.selectedParagraph = randomElementSelector(typingTestData);
 		this.setState(initialState)
 	}
 
